@@ -34,7 +34,7 @@
 
 ## 🛠️ Technologies Used
 
-* **Frontend**: HTML, CSS, JavaScript
+* **Frontend**: HTML, CSS, JavaScript, TailwindCSS, Bootstrap
 * **Backend**: PHP
 * **Database**: MySQL
 * **Security**: Custom implementations for browser lockdown, IP restrictions, and plagiarism detection.
@@ -46,15 +46,14 @@
 * **Project Title**: ExamPro – Online Examination System
 * **Institution**: C. Abdul Hakeem College of Engineering & Technology (CAHCET)
 * **Department**: Computer Science and Engineering
-* **Academic Year**: 2024–2025([mcqwale.com][1], [LinkedIn][3], [cahcet.in][4])
-
+* **Academic Year**: 2024–2025
 ---
 
 ## 👨‍💻 Development Team
 
 * **K Mohamed Affan** – Team Lead
 * **V Mohammed Abuzer** – Developer
-* **G Kareem Wasique** – Tester([YouTube][5])
+* **G Kareem Wasique** – Tester
 
 ### Faculty Advisor
 
