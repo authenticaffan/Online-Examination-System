@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Asia/Kolkata');
 // Use object-oriented style for better readability and consistency
-$conn = new mysqli("localhost", "u350630892_mcqcahcet", "Mcq@cahcet123", "u350630892_mcq");
+$conn = new mysqli("localhost", "", "", "");
 
 // Check the connection
 if ($conn->connect_error) {
